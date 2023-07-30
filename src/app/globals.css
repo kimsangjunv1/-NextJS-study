@@ -24,6 +24,10 @@ body {
   text-decoration: none;
 }
 
+.gray {
+  background: gray;
+  color: white;
+}
 /* list */
 .food {
   margin: 20px auto;
@@ -32,4 +36,8 @@ body {
   color: black;
   padding: 20px;
   border-radius: 5px;
+}
+
+.game_img {
+  width: 100%;
 }
